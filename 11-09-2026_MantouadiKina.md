@@ -4,7 +4,7 @@ Lien du site source : https://www.luzmo.com/fr/blog/mauvaises-visualisations-de-
 
 
 Campagne politique au Etats-Unis :
-
+![](DataViz fausse 1.jpg)
 Ce diagramme en barre est biaisé au niveau de la représentation et essaye de faire passé un message ou bien d'influencer. On peut s'apercevoir de ça à travers les 2 scores qui sont proche 1% d'écart cependant celle de droite (67%) est nettement plus grande.
 Il faut donc toujours faire attention à l'échelle qui est prise.
 

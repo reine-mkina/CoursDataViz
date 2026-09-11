@@ -10,12 +10,12 @@ Il faut donc toujours faire attention à l'échelle qui est prise.
 
 
 Comparaison des cabinets de stratégie digitale :
-
+![](DataViz2.jpg)
 Ce nuage de points qui à été créer en ayant comme but premier la comparaison de cabinets de stratégie digitale mais étant donnée que la grande majorité ce retrouve au même endroit. Donc il ne prouve pas une causalité et il ne classe pas.
 Il faut donc faire attention aux axes de comparaison que l'on choisi afin de pouvoir produire des data visualisations pertinentes.
 
 
 Classement des pays possédant le plus de tueurs en série : 
-
+![](DataViz3.jpg)
 Ce diagramme en barrene prend pas en comp
 

@@ -24,6 +24,3 @@ Premièrement, les barres montrent un effectif brut et pas un taux par habitant.
 Donc comparer un pays de plus de 300 millions d'habitants (les États-Unis) à un pays de 67 millions (le Royaume-Uni) c'est pas faisable et c'est faux au niveau statistique.
 Enfin, il y a 2 graphiques mais ils n'ont pas de lien. On ne sait pas ce que représente les points dans la cartographie.
 Il y aurait été préférable de mettre des info-bulles, légendes ou un panneau.
-
-wajdi.ben-saad@u-pariscite.fr
-

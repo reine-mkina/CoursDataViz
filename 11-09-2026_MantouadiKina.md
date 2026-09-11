@@ -17,5 +17,6 @@ Il faut donc faire attention aux axes de comparaison que l'on choisi afin de pou
 
 Classement des pays possédant le plus de tueurs en série : 
 ![](DataViz3.jpg)
-Ce diagramme en barrene prend pas en comp
+Ce diagramme en barre ne prend pas en compte certains éléments important pour la compréhension des données.
+
 

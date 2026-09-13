@@ -1,4 +1,4 @@
-                                    Mauvaises visualisations de données
+                                                                  Mauvaises visualisations de données
 
   Les visualisations de données permettent de représenter des informations de manière simple et compréhensible. Cependant, une mauvaise représentation peut rendre les données difficiles à interpréter ou même induire le lecteur en erreur. Nous allons voir trois exemples de mauvaises visualisations et proposer des solutions pour les améliorer.
 

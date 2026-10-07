@@ -6,16 +6,18 @@ Source : data.gouv.fr
 
 Quel type de vélo est le plus disponible ?
 ![](Graphique1.png)
+
 Les vélos mécaniques sont les plus disponibles avec 63,14 %, contre 36,86 % pour les vélos électriques. L’écart est donc assez important entre les deux types de vélos.
 
-Cette différence peut s’expliquer par un nombre plus important de vélos mécaniques dans le réseau, mais aussi par une utilisation différente des vélos électriques. Avec ces données seules, on ne peut cependant pas déterminer précisément la cause de cet écart.
+Cet écart peut être lié au fait que les vélos électrique lancés en 2018, sont moins nombreux que les vélos mécaniques. Leur utilisation peut également influencer leur disponibilité en station. 
 
 Répartition des Vélib’ disponibles par commune
 ![](Graphique2.png)
-La répartition varie selon les communes. Vincennes et Pantin ont une majorité de vélos électriques disponibles, contrairement à Paris, Saint-Denis, Nogent-sur-Marne et Saint-Mandé, où les vélos mécaniques sont majoritaires.
 
-Pour rendre la comparaison plus cohérente, seules les stations ayant une capacité comprise entre 50 et 100 places ont été prises en compte. Les différences observées peuvent être liées aux déplacements des utilisateurs, à la composition des stations ou encore au rééquilibrage des vélos entre les stations.
+La répartition varie fortement selon les communes. Dans les stations étudiées, Suresnes se distingue avec uniquement des vélos mécaniques disponibles, tandis qu’à Montreuil, seuls des vélos électriques sont disponibles. Vincennes et Pantin présentent également une majorité de vélos électriques, contrairement à plusieurs autres communes où les vélos mécaniques restent majoritaires.
+
+L’analyse porte uniquement sur les stations de 50 à 100 places, afin de comparer des stations de grande capacité. Les résultats représentent la disponibilité des vélos au moment du relevé et peuvent donc évoluer selon les déplacements des utilisateurs et le rééquilibrage des stations.
 
 Conclusion
 
-Les vélos mécaniques sont globalement plus disponibles que les vélos électriques, mais cette tendance varie selon les communes. Il serait intéressant d’avoir des données sur plusieurs périodes afin de voir si ces différences restent les mêmes dans le temps ou si elles dépendent du moment où les données ont été relevées.
+Les vélos mécaniques sont globalement plus disponibles, mais leur répartition avec les vélos électriques varie beaucoup selon les communes. Une analyse sur plusieurs périodes permettrait de savoir si ces différences sont habituelles ou seulement liées au moment du relevé.

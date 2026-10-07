@@ -1,3 +1,5 @@
+ANALYSE DE LA DISPONIBILITÉ DES VÉLIB’
+
 Introduction
 
 Les données Vélib’ permettent d’étudier la disponibilité des vélos mécaniques et électriques dans les différentes communes. L’objectif est de voir quel type de vélo est le plus disponible et si cette répartition varie selon les communes.

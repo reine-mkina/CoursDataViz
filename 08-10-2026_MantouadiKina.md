@@ -5,7 +5,7 @@ Les données Vélib’ permettent d’étudier la disponibilité des vélos méc
 Source : data.gouv.fr
 
 Quel type de vélo est le plus disponible ?
-
+![](Graphique1.png)
 Les vélos mécaniques sont les plus disponibles avec 63,14 %, contre 36,86 % pour les vélos électriques. L’écart est donc assez important entre les deux types de vélos.
 
 Cette différence peut s’expliquer par un nombre plus important de vélos mécaniques dans le réseau, mais aussi par une utilisation différente des vélos électriques. Avec ces données seules, on ne peut cependant pas déterminer précisément la cause de cet écart.

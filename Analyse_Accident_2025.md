@@ -11,7 +11,7 @@ Mon analyse comporte deux représentations :
 
 
 1. Présentation des données
-
+   
 Les données utilisées proviennent de la base officielle des accidents corporels de la circulation routière, disponible sur le site data.gouv.fr.
 
 J'utilise deux fichiers :
@@ -21,6 +21,7 @@ J'utilise deux fichiers :
 L'étude porte uniquement sur les accidents enregistrés en Île-de-France durant l'année 2025.
 
 2. Cartographie des accidents en Île-de-France
+   
 Cette première visualisation est représente la répartition géographique des accidents corporels en Île-de-France en 2025.
 J'ai choisi une carte de chaleur afin de visualiser les zones où les accidents sont les plus concentrés.
 Les couleurs permettent de repérer les différentes intensités de concentration.
@@ -34,28 +35,23 @@ On remarque notamment une concentration importante autour de Paris et de plusieu
 
 J'ai choisi une carte de chaleur car elle permet de représenter plusieurs accidents proches les uns des autres sans afficher une multitude de points superposés. Cette visualisation facilite donc l'identification des zones de concentration.
 
-4. Comparaison des accidents selon les conditions de luminosité
+3. Comparaison des accidents selon les conditions de luminosité
+   
 Pour compléter la carte, j'ai choisi d'étudier les accidents selon les conditions de luminosité.
 
 Cette analyse permet de comparer le nombre d'accidents survenus en plein jour, à l'aube ou pendant la nuit.
 
 J'ai choisi un graphique en barres car il permet de comparer facilement les différentes catégories.
 ![](graphique_luminosite_2025.png)
-
-4.1 Interprétation du graphique¶
 Le graphique présente le nombre d'accidents corporels selon les conditions de luminosité.
-
 La catégorie "Plein jour" enregistre le plus grand nombre d'accidents avec 9 600 accidents.
-
 À l'inverse, la catégorie "Nuit avec éclairage éteint" enregistre le moins d'accidents avec 116 accidents.
-
 Cependant, le nombre d'accidents ne permet pas à lui seul de déterminer les conditions dans lesquelles le risque d'accident est le plus élevé. Pour cela, il faudrait également connaître le nombre de déplacements réalisés dans chaque condition. Mais une conclusion qui peut etre logique serait que lorsque un conducteur est en situation dite habituel il fait moins attention.
 
-5. Application des règles de lisibilité
+4. Application des règles de lisibilité
+   
 Pour améliorer la qualité de mes visualisations, j'ai appliqué plusieurs règles de lisibilité étudiées dans le support GoldenViz.
-
 Ces règles permettent de rendre les graphiques plus simples à comprendre, de faciliter les comparaisons et d'éviter les informations inutiles.
-
 
 Règle 7 : Étiquettes et graduations lisibles
 J'ai choisi des titres explicites et des tailles de texte adaptées afin de faciliter la lecture de mes visualisations.

@@ -1,19 +1,17 @@
 Projet : Analyse des accidents corporels de la circulation en Île-de-France (2025)
-Ce projet a pour objectif d'étudier la répartition géographique des accidents corporels de la circulation en France à partir des données officielles de l'année 2025.
 
+Ce projet a pour but d'étudier la répartition géographique des accidents corporels de la circulation en France à partir des données officielles de l'année 2025.
 J'ai choisi de limiter mon analyse à la région Île-de-France pour faciliter l'exploration des données et leur représentation cartographique.
-
 Pour réaliser ce travail, j'utilise Python et plusieurs bibliothèques permettant de nettoyer les données, de réaliser des calculs et de créer des visualisations.
 
-Mon analyse comporte deux représentations :
+Mon analyse comporte 2 représentations :
 - Une carte interactive permettant de visualiser les zones de concentration des accidents.
 - Un graphique en barres permettant de comparer les accidents selon les conditions de luminosité.
 
 
 1. Présentation des données
    
-Les données utilisées proviennent de la base officielle des accidents corporels de la circulation routière, disponible sur le site data.gouv.fr.
-
+Les données utilisées proviennent de la base officielle des accidents corporels de la circulation routière, disponible sur le site data.gouv.fr (https://www.data.gouv.fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2025).
 J'utilise deux fichiers :
 - caract-2025.csv : contient les caractéristiques des accidents, notamment la date, les conditions de luminosité et les coordonnées géographiques.
 - lieux-2025.csv : contient les informations relatives aux lieux où les accidents se sont produits.
@@ -26,32 +24,23 @@ Cette première visualisation est représente la répartition géographique des 
 J'ai choisi une carte de chaleur afin de visualiser les zones où les accidents sont les plus concentrés.
 Les couleurs permettent de repérer les différentes intensités de concentration.
 ![](carte_accidents_idf_2025.png)
-
-La carte permet de visualiser la répartition géographique des accidents corporels en Île-de-France en 2025.
-
 Les zones les plus rouge correspondent aux endroits où les accidents sont les plus concentrés.
-
-On remarque notamment une concentration importante autour de Paris et de plusieurs zones urbaines de la région.
-
+On remarque une concentration importante autour de Paris et de plusieurs zones urbaines de la région.
 J'ai choisi une carte de chaleur car elle permet de représenter plusieurs accidents proches les uns des autres sans afficher une multitude de points superposés. Cette visualisation facilite donc l'identification des zones de concentration.
 
 3. Comparaison des accidents selon les conditions de luminosité
    
 Pour compléter la carte, j'ai choisi d'étudier les accidents selon les conditions de luminosité.
-
-Cette analyse permet de comparer le nombre d'accidents survenus en plein jour, à l'aube ou pendant la nuit.
-
+Cette analyse permet de comparer le nombre d'accidents survenus en plein jour, à l'aube/crépuscule ou pendant la nuit.
 J'ai choisi un graphique en barres car il permet de comparer facilement les différentes catégories.
 ![](graphique_luminosite_2025.png)
-Le graphique présente le nombre d'accidents corporels selon les conditions de luminosité.
 La catégorie "Plein jour" enregistre le plus grand nombre d'accidents avec 9 600 accidents.
 À l'inverse, la catégorie "Nuit avec éclairage éteint" enregistre le moins d'accidents avec 116 accidents.
-Cependant, le nombre d'accidents ne permet pas à lui seul de déterminer les conditions dans lesquelles le risque d'accident est le plus élevé. Pour cela, il faudrait également connaître le nombre de déplacements réalisés dans chaque condition. Mais une conclusion qui peut etre logique serait que lorsque un conducteur est en situation dite habituel il fait moins attention.
+Cependant, le nombre d'accidents ne permet pas à lui seul de déterminer les conditions dans lesquelles le risque d'accident est le plus élevé. Pour cela, il faudrait également connaître le nombre de déplacements réalisés dans chaque condition. Mais à partir de ces résultat on peut en déduire que lorsqu'un conducteur est en situation dite habituel il fait moins attention.
 
 4. Application des règles de lisibilité
    
-Pour améliorer la qualité de mes visualisations, j'ai appliqué plusieurs règles de lisibilité étudiées dans le support GoldenViz.
-Ces règles permettent de rendre les graphiques plus simples à comprendre, de faciliter les comparaisons et d'éviter les informations inutiles.
+Pour améliorer la qualité de mes visualisations, j'ai appliqué plusieurs règles de lisibilité étudiées dans le support GoldenVi, tels que :.
 
 Règle 7 : Étiquettes et graduations lisibles
 J'ai choisi des titres explicites et des tailles de texte adaptées afin de faciliter la lecture de mes visualisations.

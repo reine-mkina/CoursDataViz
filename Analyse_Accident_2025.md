@@ -40,7 +40,7 @@ Cependant, le nombre d'accidents ne permet pas à lui seul de déterminer les co
 
 4. Application des règles de lisibilité
    
-Pour améliorer la qualité de mes visualisations, j'ai appliqué plusieurs règles de lisibilité étudiées dans le support GoldenVi, tels que :.
+Pour améliorer la qualité de mes visualisations, j'ai appliqué plusieurs règles de lisibilité étudiées dans le support GoldenVi, tels que :
 
 Règle 7 : Étiquettes et graduations lisibles
 J'ai choisi des titres explicites et des tailles de texte adaptées afin de faciliter la lecture de mes visualisations.

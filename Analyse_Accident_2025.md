@@ -9,7 +9,9 @@ Mon analyse comporte deux représentations :
 - Une carte interactive permettant de visualiser les zones de concentration des accidents.
 - Un graphique en barres permettant de comparer les accidents selon les conditions de luminosité.
 
+
 1. Présentation des données
+
 Les données utilisées proviennent de la base officielle des accidents corporels de la circulation routière, disponible sur le site data.gouv.fr.
 
 J'utilise deux fichiers :
